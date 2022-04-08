@@ -1,0 +1,31 @@
+{
+  "EnterName": {
+    "msg_enter_name": "Enter your name",
+    "btn_submit": "Submit",
+    "error_enter_name": "Please enter your name"
+  },
+  "Homepage": {
+    "label_locate_beacon": "Locate a beacon",
+    "label_create_beacon": "Create a beacon",
+    "error_fetching_user_location": "Unable to get user current location",
+    "error_unable_set_beacon_data": "Error updating beacon data in database"
+  },
+  "EnterBeaconId": {
+    "msg_enter_beacon_id": "Enter beacon id",
+    "btn_submit": "Submit",
+    "error_incorrect_id": "Sorry, this beacon id does not exists",
+    "error_enter_beacon_id": "Please enter beacon id"
+  },
+  "CreatedBeacon": {
+    "error_updating_location_database": "Error updating beacon location in database",
+    "label_beacon_id": "Beacon Id: ",
+    "msg_beacon_expire": "Beacon will expire after ",
+    "msg_beacon_expired": "Beacon is expired"
+  },
+  "LocateBeacon": {
+    "label_beacon_id": "Beacon Id: ",
+    "label_host": "Host name: ",
+    "msg_beacon_expire": "Beacon will expire after ",
+    "msg_beacon_expired": "Beacon is expired"
+  }
+}
