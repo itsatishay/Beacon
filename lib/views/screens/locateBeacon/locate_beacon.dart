@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:collection';
 import 'dart:typed_data';
 import 'package:beacon/dataClasses/beacon_data.dart';
-import 'package:beacon/functions/debug_logger.dart';
 import 'package:beacon/functions/get_user_location.dart';
 import 'package:beacon/functions/typedef.dart';
 import 'package:beacon/hardcoded/hardcoded_colors.dart';
